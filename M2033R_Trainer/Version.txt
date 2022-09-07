@@ -1,6 +1,6 @@
 # M2033R_Trainer
-Version: [VersionBegin]1.1[VersionEnd]
-Link: [LinkBegin][LinkEnd]
+Version: [VersionBegin]1.2[VersionEnd]
+Link: [LinkBegin]https://www.playground.ru/metro_2033_the_last_refuge/cheat/metro_2033_redux_trejner_24_1_0_0_3_1_0_1_10_steam_gog_egs_upd_07_09_2022_hex-1102285[LinkEnd]
 Changes:
-[ChangesBegin_EN][ChangesEnd_EN]
-[ChangesBegin_RU][ChangesEnd_RU]
+[ChangesBegin_EN]***Update: 09/07/2022***<n>-Added the "No clip mode" function.<n>-Reduced the chance of crashing the game when the "Infinite military grade rounds" function is activated during save loading and during transition between levels.[ChangesEnd_EN]
+[ChangesBegin_RU]***Обновление: 07.09.2022***<n>-Добавлена функция "Режим «No clip»".<n>-Уменьшена вероятность вылета из игры при активированной функции "Бесконечные патроны-деньги" во время загрузки сохранения и во время перехода между уровнями.[ChangesEnd_RU]
