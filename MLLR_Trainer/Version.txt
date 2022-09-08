@@ -1,6 +1,6 @@
 # MLLR_Trainer
-Version: [VersionBegin]1.1[VersionEnd]
-Link: [LinkBegin][LinkEnd]
+Version: [VersionBegin]1.2[VersionEnd]
+Link: [LinkBegin]https://www.playground.ru/metro_last_light/cheat/metro_last_light_redux_trejner_25_1_0_0_3_1_0_1_10_steam_gog_egs_upd_08_09_2022_hex-1102826[LinkEnd]
 Changes:
-[ChangesBegin_EN][ChangesEnd_EN]
-[ChangesBegin_RU][ChangesEnd_RU]
+[ChangesBegin_EN]***Update: 09/08/2022***<n>-Added the "Infinite Claymore mines" function.<n>-Added the "No clip mode" function.<n>-Reduced the chance of crashing the game when the "Infinite military grade rounds" function is activated during save loading and during transition between levels.[ChangesEnd_EN]
+[ChangesBegin_RU]***Обновление: 08.09.2022***<n>-Добавлена функция "Бесконечные противопехотные мины".<n>-Добавлена функция "Режим «No clip»".<n>-Уменьшена вероятность вылета из игры при включенной функции "Бесконечные патроны-деньги" во время загрузки сохранения и во время перехода между уровнями.[ChangesEnd_RU]
