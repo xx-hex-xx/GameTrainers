@@ -1,5 +1,5 @@
 # BHLDR_Trainer
-Version: [VersionBegin]1.4[VersionEnd]
+Version: [VersionBegin]1.3[VersionEnd]
 Link: [LinkBegin][LinkEnd]
 Changes:
 [ChangesBegin_EN][ChangesEnd_EN]
