@@ -1,6 +1,6 @@
 # CODMW2_Trainer
-Version: [VersionBegin]1.0[VersionEnd]
-Link: [LinkBegin][LinkEnd]
+Version: [VersionBegin]1.1[VersionEnd]
+Link: [LinkBegin]https://www.playground.ru/call_of_duty_modern_warfare_2/cheat/call_of_duty_modern_warfare_2_trejner_17_1_0_1_2_211_hex-1250129[LinkEnd]
 Changes:
-[ChangesBegin_EN][ChangesEnd_EN]
-[ChangesBegin_RU][ChangesEnd_RU]
+[ChangesBegin_EN]***Update: 12/10/2022***<n>-Improved the "Infinite special grenades" function. Added the "Semtex" grenade from the Special Ops.<n>-Fixed a bug in the "Low enemies health" function which could sometimes affect the player.<n>-Fixed the "No optical sight sway" function.[ChangesEnd_EN]
+[ChangesBegin_RU]***Обновление: 10.12.2022***<n>-Улучшена функция "Бесконечные особые гранаты". Добавлена граната "Пластид" из спецоперации.<n>-Исправлена ошибка в функции "Никзое здоровье врагов", которая иногда могла повлиять и на игрока.<n>-Исправлена функция "Без тряски оптического прицела".[ChangesEnd_RU]
